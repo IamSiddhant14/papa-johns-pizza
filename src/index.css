@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.box {
+  cursor: pointer;
+  transition: border-color 0.4s;
+  border-color: black;
+
+}
+
+.box:hover {
+  transform: scale(1.1);
+  transition: transform 1s;
+  font-weight: bolder;
+}
