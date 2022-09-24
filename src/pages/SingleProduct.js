@@ -14,6 +14,7 @@ const SingleProduct = () => {
             console.log(product)
             setProduct(product);
         })
+         
     }, [params._id]);
 
 
