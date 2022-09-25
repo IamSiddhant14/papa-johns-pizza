@@ -8,7 +8,7 @@ const Cart = () => {
 
     const { cart, setCart } = useContext(CartContext);
 
-    useEffect(() => {
+    useEffect(() => { 
         if (!cart.items) {
             return;
         }
