@@ -1,3 +1,3 @@
 ## React shopping cart 
 
-![Realtime Pizza app](https://github.com/codersgyan/react-shopping-cart/blob/main/Screenshot%202021-06-06%20at%2013.07.18.png)
+![Realtime Pizza app](https://github.com/IamSiddhant14/papa-johns-pizza/blob/master/public/Screenshot%20(649).png)
