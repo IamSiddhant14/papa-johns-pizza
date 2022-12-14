@@ -38,7 +38,8 @@ const Product = ({product }) => {
     return (
         <Link to={`/products/${product._id}`}>
             <div>
-            <img src={product.image} alt="pizza" />
+//             <img src={product.image} alt="pizza" />
+               <img src='/images/peproni.png' alt="pizza" />
             <div className="text-center">
                 <h2 className="text-lg font-bold py-2">{product.name}</h2>
                 <span className="bg-gray-200 py-1 rounded-full text-sm px-4">{ product.size }</span>
