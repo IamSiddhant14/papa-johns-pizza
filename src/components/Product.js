@@ -38,7 +38,7 @@ const Product = ({product }) => {
     return (
         <Link to={`/products/${product._id}`}>
             <div>
-//             <img src={product.image} alt="pizza" />
+            
                <img src='/images/peproni.png' alt="pizza" />
             <div className="text-center">
                 <h2 className="text-lg font-bold py-2">{product.name}</h2>
